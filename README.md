@@ -4,7 +4,7 @@
 
 **Metro-Connect** is an intuitive web-based application that helps users find the shortest path between two stations on the **Delhi Metro** network. By utilizing **Dijkstra's algorithm**, it efficiently calculates the optimal route, while also providing crucial travel information such as **total travel time** and an **estimated fare**. The application aims to streamline the commuter experience by offering a seamless, real-time solution for route planning in Delhi's extensive metro system.
 
-> **Live Demo**: 
+> **Live Demo**:  https://ankit2022dsvv.github.io/DMRC_CONECT/
 ---
 
 ### Features
